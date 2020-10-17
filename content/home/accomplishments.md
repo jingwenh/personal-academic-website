@@ -23,7 +23,6 @@ date_format = "Jan 2006"
   organization_url = "https://2020.acmmm.org/"
   title = "Neural Networks and Deep Learning"
   url = "https://challenge2020.perfectcorp.com/"
-  <!-- certificate_url = "https://challenge2020.perfectcorp.com/#item11" -->
   date_start = "2020"
   date_end = ""
   description = ""
