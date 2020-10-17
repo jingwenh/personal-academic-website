@@ -4,7 +4,7 @@ authors:
 - Jingwen Hou
 - Sheng Yang
 - Weisi Lin
-date: ""
+date: "2020 ACM International Conference on Multimedia"
 doi: "10.1145/3394171.3413695"
 
 # Schedule page publish date (NOT publication's date).
