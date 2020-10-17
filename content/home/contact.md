@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -21,4 +21,4 @@ email_form = 2
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
-
+ -->
