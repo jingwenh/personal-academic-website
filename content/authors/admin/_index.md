@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jingwen Hou
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Nanayang Technological University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. student at Nanyang Technological University (NTU), under the supervision of Prof. Lin Weisi. Formerly I received my Master degree in Information Technology from Carnegie Mellon University and joint Bachelor degree in e-commerce from Beijing University of Posts and Telecommunications and Queen Mary University of London. My research interests are in deep learning based multimedia quality assessment and perceptual-driven multimedia signal modeling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multimedia quality assessment 
+- Perceptual-driven multimedia signal modeling
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Nanyang Technological University
+    year: 2019 ~ Present
+  - course: MSc in Information Technology
+    institution: Carnegie Mellon University
+    year: 2017~2018
+  - course: Joint BSc in E-Commerce (with 1st Class Honours)
+    institution: Beijing University of Posts and Telecommunucation & Queen Mary University of London
+    year: 2013~2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'jingwen003@e.ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.sg/citations?user=NlNOyiQAAAAJ&hl=zh-CN&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jingwenh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +60,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jingwen003@e.ntu.edu.sg"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
